@@ -1,0 +1,2 @@
+2023-12-11 01:59:24,1.0,what type of organism is commonly used in preparation of foods such as cheese and yogurt?,mesophilic organisms. Mesophiles grow best in moderate temperature, typically between 25°C and 40°C (77°F and 104°F). Mesophiles are often found living in or on the bodies of humans or other animals. The optimal growth temperature of many pathogenic mesophiles is 37°C (98°F), the normal human body temperature. Mesophilic organisms have important uses in food preparation, including cheese, yogurt, beer and wine.
+
