@@ -28,24 +28,26 @@ I tried to fine-tune the Falcon-7B-Instruct model to for the specific requiremen
 
 - Physics
 
-![](./bot/Results/Physics.png)
+![Physics](https://github.com/Mahmoud-Hesham99/scienceQA-bot-ofTask/assets/73784370/8a7eaaaa-dc31-43ed-b9cc-01d804362a28)
 
 - Chemistry
 
-![](./bot/Results/Chemistry.png)
+![Chemistry](https://github.com/Mahmoud-Hesham99/scienceQA-bot-ofTask/assets/73784370/4f2afd3a-1b3e-4bc2-9a02-f2474b5bc637)
 
 
 - Biology
+  
+![Biology](https://github.com/Mahmoud-Hesham99/scienceQA-bot-ofTask/assets/73784370/2fc97218-646d-44b2-8d09-1e84def5b1d8)
 
-![](./bot/Results/Biology.png)
 
 - Astronomy
 
-![](./bot/Results/Astronomy.png)
+![Astronomy](https://github.com/Mahmoud-Hesham99/scienceQA-bot-ofTask/assets/73784370/bfcb4298-29c7-4a48-824b-6b036069bef9)
+
 
 - When faced with similar questions, one from the dataset and its paraphrased version (low cosine similarity), the system defers to falcon-7b-instruct for more confident and accurate answers.
 
-![](./bot/Results/noted.png)
+![noted](https://github.com/Mahmoud-Hesham99/scienceQA-bot-ofTask/assets/73784370/a9935d25-6a45-492c-8107-24cfcbc04524)
 
 
 > Disclaimer: This model can make mistakes sometimes.
